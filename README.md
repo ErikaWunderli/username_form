@@ -1,2 +1,1 @@
-# username_form
-a form for users, with php
+Basic form for sending and displaying userinfo
